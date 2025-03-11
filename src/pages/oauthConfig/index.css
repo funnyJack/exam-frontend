@@ -1,0 +1,8 @@
+.add_button{
+    float: left;
+}
+
+.option_group{
+    display: flex;
+    gap: 10px;
+}
